@@ -83,7 +83,7 @@ const getRoomHash = (): string => {
 
 const msg = `%c 
     Script created by KusiaK 
-    https://github.com/gbaranski/quizizz-cheat
+    https://github.com/KusiaK69/quizizz-cheat
       `;
 
 
